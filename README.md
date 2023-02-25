@@ -1,5 +1,7 @@
 ### Hello, everyone 👋
 
+I'm Fullstack Developer
+
 <!--START_SECTION:waka-->
 
 ```text
