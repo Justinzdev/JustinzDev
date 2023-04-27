@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JustinzDev</h1>
+<h1 align="center">Hi 👋, I'm JDz (เจ.ดี.ซี)</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinzdev&label=Profile%20views&color=0e75b6&style=flat" alt="justinzdev" /> </p>
 
