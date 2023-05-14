@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinzdev&label=Profile%20views&color=0e75b6&style=flat" alt="justinzdev" /> </p>
 
-<h3 align="left">My workings:</h3>
 <!--START_SECTION:waka-->
 
 ```text
